@@ -1,0 +1,19 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "embark test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "embarkjs-connector-web3": "^4.0.0"
+  },
+  "gitHead": "d0d89fc5ae4663c27e4b6b5c9cfcf1b47e645d6e"
+}
